@@ -9,10 +9,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Env files
-.env
-pixel-app-client
-pixel-app-server
 
 # Build outputs
 dist/
